@@ -4,3 +4,4 @@
 Configura equipe: 
 
 > Settings > Collaborators
+> git add -p
